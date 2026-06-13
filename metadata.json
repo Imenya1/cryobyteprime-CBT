@@ -1,0 +1,6 @@
+{
+  "name": "Student Attendance & CBT Portal",
+  "description": "A student attendance tracking, Computer Based Testing (CBT) preparation, and roster synchronization portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
